@@ -22,8 +22,8 @@ class Solution {
         if(count > 1){
 
                 for (char c : String.valueOf(count).toCharArray()) {
-chars[write] = c;
-write++;
+                    chars[write] = c;
+                    write++;
 
 }
         }
