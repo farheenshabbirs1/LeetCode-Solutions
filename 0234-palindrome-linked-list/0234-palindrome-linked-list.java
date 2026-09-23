@@ -3,7 +3,6 @@
     public class ListNode(){
     ListNode next;
     int val;
-
     ListNode();
     ListNode(int val){this.val = val;};
     ListNode(int val, ListNode next = next){this.val; this.next;};
@@ -49,7 +48,6 @@ ListNode next = curr.next;
 curr.next = prev;
 prev = curr;
 curr = next;
-
 
 }
 
