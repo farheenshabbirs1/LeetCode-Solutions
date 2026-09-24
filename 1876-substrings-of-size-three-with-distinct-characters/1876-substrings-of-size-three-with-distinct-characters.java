@@ -6,8 +6,6 @@ int count = 0;
 if(s.charAt(i) != s.charAt(i + 1) &&
 s.charAt(i) != s.charAt(i + 2) &&
 s.charAt(i + 1) != s.charAt(i + 2) 
-
-
 ){
     count++;
 
