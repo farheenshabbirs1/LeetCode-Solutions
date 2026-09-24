@@ -19,4 +19,7 @@ class Solution {
 
 
     }
+
+    //Time = O(n)
+    //Space = O(1)
 }
