@@ -133,6 +133,7 @@
 | [0016-3sum-closest](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
