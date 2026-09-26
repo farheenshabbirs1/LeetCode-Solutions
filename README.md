@@ -148,6 +148,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
