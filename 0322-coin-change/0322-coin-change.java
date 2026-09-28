@@ -9,15 +9,14 @@ class Solution {
                 if(a - c >= 0){
                     dp[a] = Math.min(dp[a], 1 + dp[a - c]);
 
-
                 }
 
             }
 
         }
 
-        return dp[amount] != amount + 1 ?   dp[amount]: -1;
-        
+        return dp[amount] != amount + 1 ? dp[amount]: -1;
+
     }
 
 
