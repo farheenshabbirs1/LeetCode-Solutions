@@ -145,6 +145,7 @@
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0377-combination-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -246,6 +247,7 @@
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0377-combination-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
