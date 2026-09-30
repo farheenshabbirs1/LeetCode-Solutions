@@ -4,14 +4,11 @@ class Solution {
         if(n == 1){
             return nums[0];
         }
-return Math.max(
+        return Math.max(
+        robRange(nums, 0, n - 2),
+        robRange(nums, 1, n - 1)
 
-robRange(nums, 0, n - 2),
-
-robRange(nums, 1, n - 1)
-
-);
-
+        );
         
     }
 
