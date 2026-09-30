@@ -5,8 +5,8 @@ class Solution {
             return nums[0];
         }
         return Math.max(
-        robRange(nums, 0, n - 2),
-        robRange(nums, 1, n - 1)
+        robRange(nums, 0, n - 2), // Exclude first house
+        robRange(nums, 1, n - 1) // exclude last house
 
         );
         
