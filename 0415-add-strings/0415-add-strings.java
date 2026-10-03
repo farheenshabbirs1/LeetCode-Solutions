@@ -12,11 +12,13 @@ class Solution {
         while(i >= 0 || j >= 0 || carry != 0){
             int sum = carry;
            
-           
+
+
 
 if (i >= 0) sum += num1.charAt(i--) - '0';
 
 if (j >= 0) sum += num2.charAt(j--) - '0';
+
 
             res.append((char) ('0' + sum % 10));
             carry = sum / 10;
